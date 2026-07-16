@@ -19,7 +19,6 @@ I have answered the following questions
 #### Binary Classification using Logistic Regression
 
 We had a binary classification dataset (malignant vs. benign tumor) based on digitized images of fine-needle aspirate (FNA) of breast mass.
-The dataset includes information about:
 It had 30 numeric features, all computed from images of cell nuclei. These features are grouped into three categories for each measurement type:
 
 #### 1. Mean values
